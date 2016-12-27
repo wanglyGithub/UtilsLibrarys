@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Andriod_Commlibary/Andriod_Commlibary.iml" filepath="$PROJECT_DIR$/Andriod_Commlibary/Andriod_Commlibary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilsLibrarys.iml" filepath="$PROJECT_DIR$/UtilsLibrarys.iml" />
+    </modules>
+  </component>
+</project>
